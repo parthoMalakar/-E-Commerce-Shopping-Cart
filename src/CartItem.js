@@ -27,6 +27,7 @@ const styles = {
         width: 110,
         borderRadius: 4,
         background: '#ccc'
+        
     }
 }
 
